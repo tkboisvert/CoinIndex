@@ -1,0 +1,8 @@
+*.dat
+Bin
+bin
+obj
+Obj
+*.version
+*.crc
+_ReSharper
