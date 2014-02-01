@@ -1,0 +1,12 @@
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\bin\Debug\TKBoisvert.CoinIndex.Imaging.FixBitmap.Tester.exe.config
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\obj\Debug\TKBoisvert.CoinIndex.Imaging.FixBitmap.Tester.exe
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\obj\Debug\TKBoisvert.CoinIndex.Imaging.FixBitmap.Tester.pdb
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\bin\Debug\TKBoisvert.CoinIndex.Imaging.FixBitmap.Tester.exe
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\bin\Debug\TKBoisvert.CoinIndex.Imaging.FixBitmap.Tester.pdb
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\bin\Debug\AForge.Imaging.dll
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\obj\Debug\TKBoisvert.CoinIndex.Imaging.Tester.csprojResolveAssemblyReference.cache
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\obj\Debug\TKBoisvert.CoinIndex.Imaging.FixBitmap.Tester.Properties.Resources.resources
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\obj\Debug\TKBoisvert.CoinIndex.Imaging.Tester.Tester.resources
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\obj\Debug\TKBoisvert.CoinIndex.Imaging.Tester.csproj.GenerateResource.Cache
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\bin\Debug\TKBoisvert.CoinIndex.Imaging.dll
+C:\Users\Admin\DEV\TKBoisvert.CoinIndex\Imaging\Testing\bin\Debug\TKBoisvert.CoinIndex.Imaging.pdb

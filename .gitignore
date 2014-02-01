@@ -1,8 +1,8 @@
-*.dat
-Bin
-bin
-obj
-Obj
+*_ReSharper*
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+[Pp]ackages/*.dat
 *.version
 *.crc
-_ReSharper

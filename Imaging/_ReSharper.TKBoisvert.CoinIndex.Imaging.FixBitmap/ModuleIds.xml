@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="C1227372-BAD7-4696-9340-79B0129B5323" ModuleId="TKBoisvert.CoinIndex.Imaging.FixBitmap" />
+  <Module PersistentId="01FA9F2A-857C-415E-A3BA-F50EB9668347" ModuleId="TKBoisvert.CoinIndex.Imaging.FixBitmap.Tester" />
+</Modules>
